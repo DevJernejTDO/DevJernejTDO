@@ -18,4 +18,4 @@
 - Gaming 🎮
 
 ## Contact
-- 📧 devjernej@triler.eu
+📧 devjernej@triler.eu
