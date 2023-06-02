@@ -16,3 +16,6 @@
 - Video editing 📹
 - Server managment 📁
 - Gaming 🎮
+
+## Contact
+- 📧 devjernej@triler.eu
