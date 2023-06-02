@@ -14,7 +14,7 @@
 ## What do I do
 - Coding Spigot/BungeeCord plugins 👨‍💻
 - Video editing 📹
-- Server managment 📁
+- Server management 📁
 - Gaming 🎮
 
 ## Contact
