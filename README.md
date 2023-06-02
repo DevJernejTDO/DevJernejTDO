@@ -1,16 +1,16 @@
-### Hi there 👋
+# JernejTDO 
+📅 13.11.2002
+🌍 Slovenija
+💖🔒 Glorija
+💻 PC | AMD 5 5500 | 16GB RAM 3200MHz | GTX 1660 TI |
+![](https://freetwitchemotes.com/wp-content/uploads/2021/02/Hi-Anime-Twitch-Emotes.png)
+## Where do I work
+- MysticNetwork (https://mystichhero.net/) | Owner 👑
+- GamerHub (https://gamerhub.si/) |Owner 👑
+- SkyPieaMC (https://skypieamc.net/) | Developer 👨‍💻
 
-<!--
-**Jernej3ler/Jernej3ler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What do I do
+- Coding Spigot/BungeeCord plugins 👨‍💻
+- Video editing 📹
+- Server managment 📁
+- Gaming 🎮
