@@ -8,7 +8,7 @@
 
 ## Where do I work
 - MysticNetwork (https://mystichhero.net/) | Owner 👑
-- GamerHub (https://gamerhub.si/) |Owner 👑
+- GamerHub (https://gamerhub.si/) | Owner 👑
 - SkyPieaMC (https://skypieamc.net/) | Developer 👨‍💻
 
 ## What do I do
