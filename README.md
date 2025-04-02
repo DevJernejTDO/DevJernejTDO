@@ -4,10 +4,12 @@
 💖🔒 Glorija
 💻 PC | AMD 5 5500 | 16GB RAM 3200MHz | GTX 1660 TI |
 
-![](https://freetwitchemotes.com/wp-content/uploads/2021/02/Hi-Anime-Twitch-Emotes.png)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevJernejTDO&theme=react-dark)](https://github.com/DevJernejTDO/github-readme-activity-graph)
 
 ## Where do I work
 - MysticNetwork (https://mystichhero.net/) | Owner 👑
+
+## Where I did work
 - GamerHub (https://gamerhub.si/) | Owner 👑
 - SkyPieaMC (https://skypieamc.net/) | Developer 👨‍💻
 
