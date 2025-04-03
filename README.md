@@ -1,10 +1,8 @@
 # JernejTDO 
 📅 13.11.2002
 🌍 Slovenija
-💖🔒 Glorija
-💻 PC | AMD 5 5500 | 16GB RAM 3200MHz | GTX 1660 TI |
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevJernejTDO&theme=react-dark)](https://github.com/DevJernejTDO/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevJernejTDO&theme=react-dark)](https://github.com/DevJernejTDO/)
 
 ## Where do I work
 - MysticNetwork (https://mystichhero.net/) | Owner 👑
